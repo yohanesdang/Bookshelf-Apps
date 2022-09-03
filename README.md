@@ -1,7 +1,6 @@
-# Bookshelf-Apps
-### Belajar Dasar Pemrograman Web Learning Path "Belajar Membuat Front-End Web untuk Pemula" dari Dicoding Academy
-## HTML-CSS-JavaScript(DOM & Web Storage) Vanilla
-repo ini adalah tugas akhir submission pengolaan data  menggunakan DOM dan web storage.
+## "Belajar Membuat Front-End Web untuk Pemula" Learning Path "Front-End Web Developer" dari Dicoding Academy
+# HTML5-CSS-JavaScript(DOM & Web Storage) Vanilla
+repo ini adalah tugas akhir Submission Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage
 got 4 stars no rejection.
 mungkin kurang fitur edit dan alert/ dialog box kurang menarik
 
